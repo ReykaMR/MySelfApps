@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- default colors   -->
+    <color name="purple_200">#bf00ff</color>
+    <color name="purple_500">#9c27b0</color>
+    <color name="purple_700">#7b1fa2</color>
+    <color name="white">#ffffff</color>
+    <color name="teal_200">#03dac5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="grey">#999999</color>
+
+    <!-- logo -->
+    <color name="logo">#F6C145</color>
+
+    <color name="superlightbrown">#F6F7DD</color>
+    <color name="lightbrown">#DECFAC</color>
+    <color name="brown">#C9AD7F</color>
+    <color name="darkbrown">#B5926D</color>
+    <color name="superdarkbrown">#A67C5B</color>
+
+    <!--color meow bottom navigation-->
+    <color name="selectedIconColor">#B5926D</color>
+    <color name="defaultIconColor">#F6F6F6</color>
+<!--    <color name="countTextColor">#FFFFFF</color>-->
+    <color name="countBackgroundColor">#A67C5B</color>
+    <color name="circleColor">#FFFFFF</color>
+    <color name="backgroundBottomColor">#C9AD7F</color>
+    <color name="shadowColor">#CDCDCD</color>
+</resources>

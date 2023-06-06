@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">10120766UTS</string>
+
+    <!--fragment home, fragment profile-->
+    <string name="welcome">Selamat Datang!</string>
+    <string name="namahead">Reyka Mochammad Raihan</string>
+    <string name="nimhead">10120766</string>
+    <string name="title_aboutme">Tentang Saya</string>
+    <string name="title_contactme">Kontak Saya</string>
+
+    <string name="phone">+628882124339</string>
+    <string name="about"> Tentang Aplikasi</string>
+    <string name="aboutme">Hallo! Saya seorang programmer yang bersemangat dan berdedikasi dalam dunia pengembangan perangkat lunak. Saya memiliki pengetahuan dan keterampilan dalam bahasa pemrograman seperti Java, Python, PHP, dan JavaScript, serta pengalaman dalam mengimplementasikan konsep pemrograman. Sebagai seorang programmer, saya senang memecahkan masalah dan merancang solusi kreatif melalui kode.</string>
+    <string name="namalengkap">Nama : Reyka Mochmmad Raihan</string>
+    <string name="nim">NIM : 10120766</string>
+    <string name="kelas">Kelas : IF-9</string>
+    <string name="jeniskelamin">Jenis Kelamin : Laki-laki</string>
+    <string name="ttl">TTL : Bandung, 21 Agustus 2002</string>
+    <string name="hobi">Hobi : Main</string>
+    <string name="makananfavorit">"Makanan Favorit : Elthai</string>
+    <string name="minumanfavorit">Minuman Favorit : Jus Strawberry</string>
+    <string name="lagufavorit">Lagu Favorit : Nirvana-Smells Like Teen Spirit</string>
+    <string name="filmfavorit">Film Favorit : Pertaruhan</string>
+    <string name="citacita">Cita-cita : Front end Web Developer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="alamat">Alamat : Jl. Karasak Lama Cibintinu Rt.03/Rw.05</string>
+    <string name="title_gallery" />
+
+</resources>
