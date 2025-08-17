@@ -9,7 +9,7 @@ Aplikasi ini menampilkan informasi mengenai diri saya, aktivitas, teman, galeri,
 ---
 
 ## 📸 Tampilan Aplikasi
-<table>
+<table align="center">
   <tr>
     <td><img src="screenshot-aplikasi/foto1.jpg" alt="Screenshot 1" width="100%" height="250"></td>
     <td><img src="screenshot-aplikasi/foto2.jpg" alt="Screenshot 2" width="100%" height="250"></td>
